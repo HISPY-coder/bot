@@ -1,0 +1,23 @@
+{
+    "name": "PUBGL CIS UNION BOT",
+    "version": "0.0.1",
+    "description": "A bot that automatically assigns roles based on message reactions.",
+    "main": "role.js",
+    "scripts": {
+        "start": "node .",
+        "test": "node tests.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "HISPY",
+    "license": "MIT",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
